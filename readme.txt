@@ -18,4 +18,6 @@ Creating a new branch is quick.
 从远程克隆到本地库: git clone git@github.com:youself/gitskills.git
 创建分支并切换：git checkout -b name 
 查看分支：git branch
+合并分支：git merge name
+
 
