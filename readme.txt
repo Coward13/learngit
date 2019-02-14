@@ -19,5 +19,9 @@ Creating a new branch is quick.
 创建分支并切换：git checkout -b name 
 查看分支：git branch
 合并分支：git merge name
+删除分支：git branch -d name
+创建分支：git branch name
+切换分支：git checkout name
+
 
 
